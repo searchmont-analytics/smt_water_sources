@@ -1,0 +1,12 @@
+const assert=require('node:assert/strict'),{buildHydrantAnalysis,fixedRadiusClusters}=require('../dist/evaluation-engine.js');
+const km=(a,b)=>Math.hypot(a[0]-b[0],a[1]-b[1]),road=(coords,speed=60,extra={})=>({coords,speed,...extra});
+let result=buildHydrantAnalysis([road([[0,0],[0,1]])],[{id:'a',coord:[0,.25]}],[0,.75],{maxGap:250},km);
+assert.equal(result.rows[0].status,'routed');assert(Math.abs(result.rows[0].distance_km-.5)<1e-8);assert(Math.abs(result.rows[0].time_min-.5)<1e-8);
+let path=result.pathFor(result.rows[0]);assert.deepEqual(path[0],[0,.25]);assert.deepEqual(path.at(-1),[0,.75]);
+result=buildHydrantAnalysis([road([[0,0],[0,1]],60,{direction:'forward'})],[{id:'a',coord:[0,.9]}],[0,.75],{maxGap:250},km);assert.equal(result.rows[0].status,'no_connection');
+result=buildHydrantAnalysis([road([[0,0],[0,1]])],[{id:'a',coord:[.5,.2]}],[0,.75],{maxGap:250},km);assert.equal(result.rows[0].status,'access_gap');
+result=buildHydrantAnalysis([road([[0,0],[0,1]])],[{id:'a',coord:[0,.2]}],[.5,.75],{maxGap:250},km);assert.equal(result.rows[0].status,'hydrant_gap');
+let roads=[road([[0,0],[0,1]],10),road([[0,0],[.5,0],[.5,1],[0,1]],60)],points=[{id:'a',coord:[0,0]}];
+let shortest=buildHydrantAnalysis(roads,points,[0,1],{maxGap:250,objective:'distance'},km).rows[0],fastest=buildHydrantAnalysis(roads,points,[0,1],{maxGap:250,objective:'time'},km).rows[0];assert(Math.abs(shortest.distance_km-1)<1e-8);assert(Math.abs(shortest.time_min-6)<1e-8);assert(Math.abs(fastest.distance_km-2)<1e-8);assert(Math.abs(fastest.time_min-2)<1e-8);
+let pts=[0,.8,1.6,2.4].map((x,i)=>({id:String(i),coord:[0,x]})),clusters=fixedRadiusClusters(pts,1,3,km);assert.equal(clusters.groups.length,1);assert.equal(clusters.groups[0].members.length,3);for(const g of clusters.groups)for(const id of g.members)assert(km(g.coord,pts.find(p=>p.id===id).coord)<=1);let assigned=clusters.groups.flatMap(g=>g.members);assert.equal(new Set(assigned).size,assigned.length);assert.equal(clusters.unassigned.length,1);
+console.log('Evaluation checks passed: projected endpoints, one-way reachability, gap exclusions, route objective, fixed-radius grouping and unique membership.');
