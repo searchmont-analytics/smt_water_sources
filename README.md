@@ -16,7 +16,7 @@ Open http://localhost:8000. Internet access loads the Esri basemap; analysis use
 
 - Water inventory: 20 user-reported water locations plus the Searchmont Fire Hall.
 - Ontario Road Network: 162 segments, source attributes and local access/speed overrides.
-- Microsoft building footprints: 544 detected structures inside the supplied study outline.
+- Microsoft building footprints: 546 detected structures inside the supplied study outline.
 - Road travel coverage with explicit speed assumptions.
 - Building-to-resort-hydrant road distance and estimated driving time.
 - Fixed-radius clustering with editable minimum building count and radius.
@@ -26,7 +26,7 @@ Edits remain in browser localStorage, not a shared database. Browser-only edits 
 
 ## Default analysis and limits
 
-The baseline uses shortest road distance, assumed speeds of 40 km/h paved and 25 km/h unpaved (capped at source speed limits), and a 250 m maximum point-to-road gap. Of 544 structures, 509 received road routes and 35 exceeded the building-to-road gap limit.
+The baseline uses shortest road distance, assumed speeds of 40 km/h paved and 25 km/h unpaved (capped at source speed limits), and a 250 m maximum point-to-road gap. Of 546 structures, 509 received road routes and 37 exceeded the building-to-road gap limit.
 
 The hydrant lies approximately 230 m from the nearest included road line. Road metrics exclude that access leg, building access gaps, filling, turnaround, traffic and vehicle-specific constraints. They are not complete tanker-cycle or validated emergency-response estimates.
 

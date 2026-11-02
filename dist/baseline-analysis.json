@@ -13,10 +13,10 @@
     -84.048543
   ],
   "summary": {
-    "buildings": 544,
+    "buildings": 546,
     "status": {
       "routed": 509,
-      "access_gap": 35
+      "access_gap": 37
     },
     "hydrant_access_m": 230.36483964585426,
     "mean_road_km": 8.396401553061883,
@@ -3636,8 +3636,19 @@
       "hydrant_access_m": 230.36483964585426
     },
     {
-      "building_id": "ms-23ee5aee39594cb2",
+      "building_id": "ms-5a07d4c487891d99",
       "label": "B329",
+      "lat": 46.6974801920975,
+      "lng": -84.21982237921408,
+      "status": "access_gap",
+      "distance_km": null,
+      "time_min": null,
+      "building_access_m": 763.7135351511473,
+      "hydrant_access_m": 230.36483964585426
+    },
+    {
+      "building_id": "ms-23ee5aee39594cb2",
+      "label": "B330",
       "lat": 46.78028155674801,
       "lng": -84.04029201071002,
       "status": "routed",
@@ -3648,7 +3659,7 @@
     },
     {
       "building_id": "ms-e6a5279b899290f9",
-      "label": "B330",
+      "label": "B331",
       "lat": 46.78469186108978,
       "lng": -84.02956764424238,
       "status": "routed",
@@ -3659,7 +3670,7 @@
     },
     {
       "building_id": "ms-b59621e7a6193cae",
-      "label": "B331",
+      "label": "B332",
       "lat": 46.73497045907805,
       "lng": -84.14556587139944,
       "status": "routed",
@@ -3670,7 +3681,7 @@
     },
     {
       "building_id": "ms-3e22e34068549d9c",
-      "label": "B332",
+      "label": "B333",
       "lat": 46.83046628499738,
       "lng": -84.09394127278458,
       "status": "routed",
@@ -3681,7 +3692,7 @@
     },
     {
       "building_id": "ms-11f8c7d676f97c57",
-      "label": "B333",
+      "label": "B334",
       "lat": 46.785750374711114,
       "lng": -84.05516403974416,
       "status": "routed",
@@ -3692,7 +3703,7 @@
     },
     {
       "building_id": "ms-340568730c791bcf",
-      "label": "B334",
+      "label": "B335",
       "lat": 46.7941898090769,
       "lng": -84.02574847530548,
       "status": "routed",
@@ -3703,7 +3714,7 @@
     },
     {
       "building_id": "ms-2d051312461ceaba",
-      "label": "B335",
+      "label": "B336",
       "lat": 46.77103852049577,
       "lng": -84.0390387730669,
       "status": "access_gap",
@@ -3714,7 +3725,7 @@
     },
     {
       "building_id": "ms-7ba20d4c92f4505b",
-      "label": "B336",
+      "label": "B337",
       "lat": 46.77431676653897,
       "lng": -83.94137240179886,
       "status": "routed",
@@ -3725,7 +3736,7 @@
     },
     {
       "building_id": "ms-9d387533aa413bcd",
-      "label": "B337",
+      "label": "B338",
       "lat": 46.711692889137865,
       "lng": -84.12479459954542,
       "status": "routed",
@@ -3736,7 +3747,7 @@
     },
     {
       "building_id": "ms-c7dcbfb8768ac42d",
-      "label": "B338",
+      "label": "B339",
       "lat": 46.778425154028625,
       "lng": -84.04942578605012,
       "status": "routed",
@@ -3747,7 +3758,7 @@
     },
     {
       "building_id": "ms-bfb5466193c0ca96",
-      "label": "B339",
+      "label": "B340",
       "lat": 46.77700134224396,
       "lng": -84.06206025389919,
       "status": "routed",
@@ -3758,7 +3769,7 @@
     },
     {
       "building_id": "ms-770ef9d95c7fde3b",
-      "label": "B340",
+      "label": "B341",
       "lat": 46.774533971074796,
       "lng": -83.94040463606025,
       "status": "routed",
@@ -3769,7 +3780,7 @@
     },
     {
       "building_id": "ms-8f5273cad353b638",
-      "label": "B341",
+      "label": "B342",
       "lat": 46.773338764939176,
       "lng": -84.07184251776542,
       "status": "routed",
@@ -3780,7 +3791,7 @@
     },
     {
       "building_id": "ms-30138506b890f7a4",
-      "label": "B342",
+      "label": "B343",
       "lat": 46.70519838228176,
       "lng": -84.1272651380998,
       "status": "routed",
@@ -3791,7 +3802,7 @@
     },
     {
       "building_id": "ms-2ec554bee062a228",
-      "label": "B343",
+      "label": "B344",
       "lat": 46.77102898787693,
       "lng": -83.95757250875631,
       "status": "routed",
@@ -3802,7 +3813,7 @@
     },
     {
       "building_id": "ms-69dcbbd879eea055",
-      "label": "B344",
+      "label": "B345",
       "lat": 46.825432270199066,
       "lng": -84.14716177802804,
       "status": "routed",
@@ -3813,7 +3824,7 @@
     },
     {
       "building_id": "ms-f650f88260a6e088",
-      "label": "B345",
+      "label": "B346",
       "lat": 46.79522948067993,
       "lng": -84.02634020654627,
       "status": "routed",
@@ -3824,7 +3835,7 @@
     },
     {
       "building_id": "ms-c59a63d61d54ea94",
-      "label": "B346",
+      "label": "B347",
       "lat": 46.72355469953025,
       "lng": -84.16552612336474,
       "status": "routed",
@@ -3835,7 +3846,7 @@
     },
     {
       "building_id": "ms-e71c78be8b006d88",
-      "label": "B347",
+      "label": "B348",
       "lat": 46.73581501101697,
       "lng": -84.15039622284667,
       "status": "routed",
@@ -3846,7 +3857,7 @@
     },
     {
       "building_id": "ms-01f8b20ffefd3261",
-      "label": "B348",
+      "label": "B349",
       "lat": 46.77582762777693,
       "lng": -83.94036692166824,
       "status": "routed",
@@ -3857,7 +3868,7 @@
     },
     {
       "building_id": "ms-8b1c47d182f5afd8",
-      "label": "B349",
+      "label": "B350",
       "lat": 46.735329884060256,
       "lng": -84.15129894142576,
       "status": "routed",
@@ -3868,7 +3879,7 @@
     },
     {
       "building_id": "ms-080659f3089360b0",
-      "label": "B350",
+      "label": "B351",
       "lat": 46.7091793604117,
       "lng": -84.13027560902508,
       "status": "routed",
@@ -3879,7 +3890,7 @@
     },
     {
       "building_id": "ms-f14e5dd798c5a615",
-      "label": "B351",
+      "label": "B352",
       "lat": 46.710659866592934,
       "lng": -84.1310314388028,
       "status": "routed",
@@ -3890,7 +3901,7 @@
     },
     {
       "building_id": "ms-2f6c9aab48b1b3de",
-      "label": "B352",
+      "label": "B353",
       "lat": 46.71151451249956,
       "lng": -84.12520849496438,
       "status": "routed",
@@ -3901,7 +3912,7 @@
     },
     {
       "building_id": "ms-e218640efb829a71",
-      "label": "B353",
+      "label": "B354",
       "lat": 46.774767047603746,
       "lng": -83.95304396421442,
       "status": "access_gap",
@@ -3912,7 +3923,7 @@
     },
     {
       "building_id": "ms-f5a83db71d508ec6",
-      "label": "B354",
+      "label": "B355",
       "lat": 46.78404453674901,
       "lng": -84.05240117615034,
       "status": "routed",
@@ -3923,7 +3934,7 @@
     },
     {
       "building_id": "ms-6eb219d91952d086",
-      "label": "B355",
+      "label": "B356",
       "lat": 46.76914482688962,
       "lng": -83.97670363847847,
       "status": "routed",
@@ -3934,7 +3945,7 @@
     },
     {
       "building_id": "ms-ad25a693fd042429",
-      "label": "B356",
+      "label": "B357",
       "lat": 46.78292694643801,
       "lng": -84.0518020229117,
       "status": "routed",
@@ -3945,7 +3956,7 @@
     },
     {
       "building_id": "ms-326e4ae872909cbe",
-      "label": "B357",
+      "label": "B358",
       "lat": 46.71147324081013,
       "lng": -84.12577606138808,
       "status": "routed",
@@ -3956,7 +3967,7 @@
     },
     {
       "building_id": "ms-e2bb0cc1212aa57b",
-      "label": "B358",
+      "label": "B359",
       "lat": 46.82180394834926,
       "lng": -84.10363517198968,
       "status": "routed",
@@ -3967,7 +3978,7 @@
     },
     {
       "building_id": "ms-ac2a420b7d22fa09",
-      "label": "B359",
+      "label": "B360",
       "lat": 46.74283795181202,
       "lng": -84.12871498487537,
       "status": "routed",
@@ -3978,7 +3989,7 @@
     },
     {
       "building_id": "ms-9103e46054fe9c84",
-      "label": "B360",
+      "label": "B361",
       "lat": 46.794639047000565,
       "lng": -84.05783201888963,
       "status": "access_gap",
@@ -3989,7 +4000,7 @@
     },
     {
       "building_id": "ms-6fc414cb0daecfb5",
-      "label": "B361",
+      "label": "B362",
       "lat": 46.705964645500536,
       "lng": -84.12769158248479,
       "status": "routed",
@@ -4000,7 +4011,7 @@
     },
     {
       "building_id": "ms-16e1b39ded2d5441",
-      "label": "B362",
+      "label": "B363",
       "lat": 46.74254043569982,
       "lng": -83.895531409639,
       "status": "routed",
@@ -4011,7 +4022,7 @@
     },
     {
       "building_id": "ms-50c61008678261ad",
-      "label": "B363",
+      "label": "B364",
       "lat": 46.83908435505626,
       "lng": -84.05393985108539,
       "status": "routed",
@@ -4022,7 +4033,7 @@
     },
     {
       "building_id": "ms-0cf51c11ae551151",
-      "label": "B364",
+      "label": "B365",
       "lat": 46.795194390086536,
       "lng": -84.02654924687228,
       "status": "routed",
@@ -4033,7 +4044,7 @@
     },
     {
       "building_id": "ms-78c1a633ec395cf9",
-      "label": "B365",
+      "label": "B366",
       "lat": 46.711100583334584,
       "lng": -84.13193348072873,
       "status": "routed",
@@ -4044,7 +4055,7 @@
     },
     {
       "building_id": "ms-34bc0f2651aae37d",
-      "label": "B366",
+      "label": "B367",
       "lat": 46.7102390475319,
       "lng": -84.12294661277066,
       "status": "routed",
@@ -4055,7 +4066,7 @@
     },
     {
       "building_id": "ms-ca84a4f06fb8466a",
-      "label": "B367",
+      "label": "B368",
       "lat": 46.756583396310994,
       "lng": -84.06406110072358,
       "status": "routed",
@@ -4066,7 +4077,7 @@
     },
     {
       "building_id": "ms-cce679f8a42e3cfd",
-      "label": "B368",
+      "label": "B369",
       "lat": 46.7113541287069,
       "lng": -84.13221906487587,
       "status": "routed",
@@ -4077,7 +4088,7 @@
     },
     {
       "building_id": "ms-8fe44752d7f464b8",
-      "label": "B369",
+      "label": "B370",
       "lat": 46.70971476286029,
       "lng": -84.13064402413515,
       "status": "routed",
@@ -4088,7 +4099,7 @@
     },
     {
       "building_id": "ms-f0a32d4eb417f1cd",
-      "label": "B370",
+      "label": "B371",
       "lat": 46.79154355973804,
       "lng": -84.0552471049465,
       "status": "routed",
@@ -4099,7 +4110,7 @@
     },
     {
       "building_id": "ms-002a17efb6eb4175",
-      "label": "B371",
+      "label": "B372",
       "lat": 46.770281920792435,
       "lng": -84.04642848883674,
       "status": "routed",
@@ -4110,7 +4121,7 @@
     },
     {
       "building_id": "ms-d581625cca92e834",
-      "label": "B372",
+      "label": "B373",
       "lat": 46.7544948630976,
       "lng": -84.06388366443811,
       "status": "routed",
@@ -4121,7 +4132,7 @@
     },
     {
       "building_id": "ms-efaff83c06b23000",
-      "label": "B373",
+      "label": "B374",
       "lat": 46.77633100882545,
       "lng": -84.04632052785222,
       "status": "routed",
@@ -4132,7 +4143,7 @@
     },
     {
       "building_id": "ms-2ff4f0ba76328271",
-      "label": "B374",
+      "label": "B375",
       "lat": 46.77603201163001,
       "lng": -83.95490937771724,
       "status": "routed",
@@ -4143,7 +4154,7 @@
     },
     {
       "building_id": "ms-8de25b945923fc9d",
-      "label": "B375",
+      "label": "B376",
       "lat": 46.78826910791233,
       "lng": -84.03008426866256,
       "status": "routed",
@@ -4154,7 +4165,7 @@
     },
     {
       "building_id": "ms-5930db4e435df3e2",
-      "label": "B376",
+      "label": "B377",
       "lat": 46.77124346959711,
       "lng": -84.05175781635835,
       "status": "routed",
@@ -4165,7 +4176,7 @@
     },
     {
       "building_id": "ms-95377f84774db4e8",
-      "label": "B377",
+      "label": "B378",
       "lat": 46.753806417866386,
       "lng": -84.06414744147563,
       "status": "routed",
@@ -4176,7 +4187,7 @@
     },
     {
       "building_id": "ms-55301a35124513e5",
-      "label": "B378",
+      "label": "B379",
       "lat": 46.76898358489565,
       "lng": -84.04622986734799,
       "status": "routed",
@@ -4187,7 +4198,7 @@
     },
     {
       "building_id": "ms-f15b8b27ef1b1e9a",
-      "label": "B379",
+      "label": "B380",
       "lat": 46.81386535647576,
       "lng": -84.08650030660493,
       "status": "routed",
@@ -4198,7 +4209,7 @@
     },
     {
       "building_id": "ms-d123409711a85af8",
-      "label": "B380",
+      "label": "B381",
       "lat": 46.77165741985272,
       "lng": -84.05027234721436,
       "status": "routed",
@@ -4209,7 +4220,7 @@
     },
     {
       "building_id": "ms-d4129506a8707940",
-      "label": "B381",
+      "label": "B382",
       "lat": 46.78782722660373,
       "lng": -84.03088937952276,
       "status": "routed",
@@ -4220,7 +4231,7 @@
     },
     {
       "building_id": "ms-c29fcbccb7303d89",
-      "label": "B382",
+      "label": "B383",
       "lat": 46.771022117543154,
       "lng": -84.05158962406178,
       "status": "routed",
@@ -4231,7 +4242,7 @@
     },
     {
       "building_id": "ms-57ff6732fa67fa74",
-      "label": "B383",
+      "label": "B384",
       "lat": 46.77759976920262,
       "lng": -84.04792919001412,
       "status": "routed",
@@ -4242,7 +4253,7 @@
     },
     {
       "building_id": "ms-f2bdb055d34b2000",
-      "label": "B384",
+      "label": "B385",
       "lat": 46.78611184519123,
       "lng": -83.8841299711015,
       "status": "routed",
@@ -4253,7 +4264,7 @@
     },
     {
       "building_id": "ms-6ec96a2c1232f2ce",
-      "label": "B385",
+      "label": "B386",
       "lat": 46.82028197883758,
       "lng": -84.09348128233354,
       "status": "routed",
@@ -4264,7 +4275,7 @@
     },
     {
       "building_id": "ms-ca5432010e25804c",
-      "label": "B386",
+      "label": "B387",
       "lat": 46.82114099284392,
       "lng": -84.09055695795304,
       "status": "routed",
@@ -4275,7 +4286,7 @@
     },
     {
       "building_id": "ms-835c87f47f7d7bf4",
-      "label": "B387",
+      "label": "B388",
       "lat": 46.7761677992658,
       "lng": -83.95468462894391,
       "status": "routed",
@@ -4286,7 +4297,7 @@
     },
     {
       "building_id": "ms-3818370b74e08d12",
-      "label": "B388",
+      "label": "B389",
       "lat": 46.76983799725105,
       "lng": -84.0453815116446,
       "status": "routed",
@@ -4297,7 +4308,7 @@
     },
     {
       "building_id": "ms-b03c554e1ef7515a",
-      "label": "B389",
+      "label": "B390",
       "lat": 46.772455389694606,
       "lng": -84.03725173996557,
       "status": "access_gap",
@@ -4308,7 +4319,7 @@
     },
     {
       "building_id": "ms-11bf53ee22ff41c4",
-      "label": "B390",
+      "label": "B391",
       "lat": 46.82318948384342,
       "lng": -84.09176855625873,
       "status": "routed",
@@ -4319,7 +4330,7 @@
     },
     {
       "building_id": "ms-705aae7f0a3bb0fe",
-      "label": "B391",
+      "label": "B392",
       "lat": 46.77035427706789,
       "lng": -83.95523841482566,
       "status": "routed",
@@ -4330,7 +4341,7 @@
     },
     {
       "building_id": "ms-bbcb7663ccc328b5",
-      "label": "B392",
+      "label": "B393",
       "lat": 46.8407803225312,
       "lng": -84.06317131137523,
       "status": "routed",
@@ -4341,7 +4352,7 @@
     },
     {
       "building_id": "ms-afd4e316ffef48bb",
-      "label": "B393",
+      "label": "B394",
       "lat": 46.79346159020635,
       "lng": -84.05600630581222,
       "status": "routed",
@@ -4352,7 +4363,7 @@
     },
     {
       "building_id": "ms-d4a518c6c756ce35",
-      "label": "B394",
+      "label": "B395",
       "lat": 46.711196596006026,
       "lng": -84.13169418476676,
       "status": "routed",
@@ -4363,7 +4374,7 @@
     },
     {
       "building_id": "ms-3a55c51f97da0966",
-      "label": "B395",
+      "label": "B396",
       "lat": 46.827339437529844,
       "lng": -84.09549911088847,
       "status": "access_gap",
@@ -4374,7 +4385,7 @@
     },
     {
       "building_id": "ms-9726a590140bff04",
-      "label": "B396",
+      "label": "B397",
       "lat": 46.783433374525046,
       "lng": -84.05225629342928,
       "status": "routed",
@@ -4385,7 +4396,7 @@
     },
     {
       "building_id": "ms-1e64f77f32bc1bb1",
-      "label": "B397",
+      "label": "B398",
       "lat": 46.778158165194576,
       "lng": -84.04797504323874,
       "status": "routed",
@@ -4396,7 +4407,7 @@
     },
     {
       "building_id": "ms-707e71dd2c2a81ef",
-      "label": "B398",
+      "label": "B399",
       "lat": 46.77985773021183,
       "lng": -84.04107292839848,
       "status": "routed",
@@ -4407,7 +4418,7 @@
     },
     {
       "building_id": "ms-08dd2acbcb097795",
-      "label": "B399",
+      "label": "B400",
       "lat": 46.70575331468362,
       "lng": -84.128391646249,
       "status": "routed",
@@ -4418,7 +4429,7 @@
     },
     {
       "building_id": "ms-9cf78e5f1b72934e",
-      "label": "B400",
+      "label": "B401",
       "lat": 46.77055865345033,
       "lng": -83.9540112361941,
       "status": "routed",
@@ -4429,7 +4440,7 @@
     },
     {
       "building_id": "ms-5bda721329069980",
-      "label": "B401",
+      "label": "B402",
       "lat": 46.83337740110023,
       "lng": -84.08893722034308,
       "status": "routed",
@@ -4440,7 +4451,7 @@
     },
     {
       "building_id": "ms-0710a268790c9d1f",
-      "label": "B402",
+      "label": "B403",
       "lat": 46.793729585622025,
       "lng": -84.05506690012666,
       "status": "routed",
@@ -4451,7 +4462,7 @@
     },
     {
       "building_id": "ms-1f45f57a0a778e19",
-      "label": "B403",
+      "label": "B404",
       "lat": 46.83078017594219,
       "lng": -84.09355026590555,
       "status": "routed",
@@ -4462,7 +4473,7 @@
     },
     {
       "building_id": "ms-d671ae16eddfc860",
-      "label": "B404",
+      "label": "B405",
       "lat": 46.76309257306789,
       "lng": -84.06445966447048,
       "status": "routed",
@@ -4473,7 +4484,7 @@
     },
     {
       "building_id": "ms-3df3f01af3755d7c",
-      "label": "B405",
+      "label": "B406",
       "lat": 46.7738674032448,
       "lng": -83.96056418444114,
       "status": "routed",
@@ -4484,7 +4495,7 @@
     },
     {
       "building_id": "ms-e6c35b9f78328079",
-      "label": "B406",
+      "label": "B407",
       "lat": 46.77818035615557,
       "lng": -84.05356607136147,
       "status": "routed",
@@ -4495,7 +4506,7 @@
     },
     {
       "building_id": "ms-fdeff127d33ff1e3",
-      "label": "B407",
+      "label": "B408",
       "lat": 46.729938776692514,
       "lng": -84.15727865327298,
       "status": "routed",
@@ -4506,7 +4517,7 @@
     },
     {
       "building_id": "ms-342fb2f73d1826ea",
-      "label": "B408",
+      "label": "B409",
       "lat": 46.78971984800786,
       "lng": -83.8709278572445,
       "status": "routed",
@@ -4517,7 +4528,7 @@
     },
     {
       "building_id": "ms-df19f1c76e1a8c09",
-      "label": "B409",
+      "label": "B410",
       "lat": 46.786328477804375,
       "lng": -84.03045668285259,
       "status": "routed",
@@ -4528,7 +4539,7 @@
     },
     {
       "building_id": "ms-e6826453bbc50e1c",
-      "label": "B410",
+      "label": "B411",
       "lat": 46.70425372174757,
       "lng": -84.11557467627223,
       "status": "routed",
@@ -4539,7 +4550,7 @@
     },
     {
       "building_id": "ms-0e7f9f2613ae7bd4",
-      "label": "B411",
+      "label": "B412",
       "lat": 46.7358525645558,
       "lng": -84.15187415586567,
       "status": "routed",
@@ -4550,7 +4561,7 @@
     },
     {
       "building_id": "ms-25bf1828c5b1676f",
-      "label": "B412",
+      "label": "B413",
       "lat": 46.77939751493276,
       "lng": -84.05274389624525,
       "status": "routed",
@@ -4561,7 +4572,7 @@
     },
     {
       "building_id": "ms-4f246fa269f8730d",
-      "label": "B413",
+      "label": "B414",
       "lat": 46.70593926028209,
       "lng": -84.22174406168052,
       "status": "routed",
@@ -4572,7 +4583,7 @@
     },
     {
       "building_id": "ms-77c1481c2de27572",
-      "label": "B414",
+      "label": "B415",
       "lat": 46.77770045736491,
       "lng": -84.06073471530301,
       "status": "routed",
@@ -4583,7 +4594,7 @@
     },
     {
       "building_id": "ms-c07a2a5660e60f5d",
-      "label": "B415",
+      "label": "B416",
       "lat": 46.77132692596265,
       "lng": -84.04960184302725,
       "status": "routed",
@@ -4594,7 +4605,7 @@
     },
     {
       "building_id": "ms-99341be5c908d95e",
-      "label": "B416",
+      "label": "B417",
       "lat": 46.79445741067433,
       "lng": -84.02920190855619,
       "status": "routed",
@@ -4605,7 +4616,7 @@
     },
     {
       "building_id": "ms-84ff73976f08e261",
-      "label": "B417",
+      "label": "B418",
       "lat": 46.78636930562446,
       "lng": -83.88530504504325,
       "status": "routed",
@@ -4616,7 +4627,7 @@
     },
     {
       "building_id": "ms-6ca8c7c99521dc5a",
-      "label": "B418",
+      "label": "B419",
       "lat": 46.772139330004435,
       "lng": -84.04749781254822,
       "status": "routed",
@@ -4627,7 +4638,7 @@
     },
     {
       "building_id": "ms-42374fe7fbbf1172",
-      "label": "B419",
+      "label": "B420",
       "lat": 46.77509847951585,
       "lng": -83.94226150010188,
       "status": "routed",
@@ -4638,7 +4649,7 @@
     },
     {
       "building_id": "ms-13c07b4b4ee8a1e3",
-      "label": "B420",
+      "label": "B421",
       "lat": 46.797773513843126,
       "lng": -84.05792911772738,
       "status": "routed",
@@ -4649,7 +4660,7 @@
     },
     {
       "building_id": "ms-cd12b1134bb53f6c",
-      "label": "B421",
+      "label": "B422",
       "lat": 46.73673973651031,
       "lng": -84.14763801159248,
       "status": "routed",
@@ -4660,7 +4671,7 @@
     },
     {
       "building_id": "ms-c89796d544c85319",
-      "label": "B422",
+      "label": "B423",
       "lat": 46.77343091396352,
       "lng": -84.05013499067226,
       "status": "routed",
@@ -4671,7 +4682,7 @@
     },
     {
       "building_id": "ms-70e096521747ad9c",
-      "label": "B423",
+      "label": "B424",
       "lat": 46.77622971659548,
       "lng": -84.04869288226624,
       "status": "routed",
@@ -4682,7 +4693,7 @@
     },
     {
       "building_id": "ms-84a2a07005948704",
-      "label": "B424",
+      "label": "B425",
       "lat": 46.739454382410656,
       "lng": -84.14087067512006,
       "status": "routed",
@@ -4693,7 +4704,7 @@
     },
     {
       "building_id": "ms-f063497eb1defa83",
-      "label": "B425",
+      "label": "B426",
       "lat": 46.77285953396668,
       "lng": -84.04841163938386,
       "status": "routed",
@@ -4704,7 +4715,7 @@
     },
     {
       "building_id": "ms-bf576281bbf32504",
-      "label": "B426",
+      "label": "B427",
       "lat": 46.77716033053417,
       "lng": -84.03040700061096,
       "status": "routed",
@@ -4715,7 +4726,7 @@
     },
     {
       "building_id": "ms-fdb765994a6d4978",
-      "label": "B427",
+      "label": "B428",
       "lat": 46.719424164725844,
       "lng": -83.96021773075154,
       "status": "routed",
@@ -4726,7 +4737,7 @@
     },
     {
       "building_id": "ms-5bc5de4df66fda7b",
-      "label": "B428",
+      "label": "B429",
       "lat": 46.74682086431586,
       "lng": -84.07545864690506,
       "status": "routed",
@@ -4737,7 +4748,7 @@
     },
     {
       "building_id": "ms-80afb6a12a3889b2",
-      "label": "B429",
+      "label": "B430",
       "lat": 46.77053825818153,
       "lng": -83.95352640996958,
       "status": "routed",
@@ -4748,7 +4759,7 @@
     },
     {
       "building_id": "ms-e0cb97732a0c7a71",
-      "label": "B430",
+      "label": "B431",
       "lat": 46.74749175718449,
       "lng": -84.06696047116719,
       "status": "routed",
@@ -4759,7 +4770,7 @@
     },
     {
       "building_id": "ms-048a919d284eb7f3",
-      "label": "B431",
+      "label": "B432",
       "lat": 46.77795725296311,
       "lng": -84.06517603691965,
       "status": "routed",
@@ -4769,8 +4780,19 @@
       "hydrant_access_m": 230.36483964585426
     },
     {
+      "building_id": "ms-601ad727a738e5a2",
+      "label": "B433",
+      "lat": 46.68404539978847,
+      "lng": -84.22025973211632,
+      "status": "access_gap",
+      "distance_km": null,
+      "time_min": null,
+      "building_access_m": 1896.8971758581652,
+      "hydrant_access_m": 230.36483964585426
+    },
+    {
       "building_id": "ms-b0f81da77e66c071",
-      "label": "B432",
+      "label": "B434",
       "lat": 46.77426337931701,
       "lng": -84.06993986296642,
       "status": "routed",
@@ -4781,7 +4803,7 @@
     },
     {
       "building_id": "ms-6a2b175db83831fe",
-      "label": "B433",
+      "label": "B435",
       "lat": 46.7774844836987,
       "lng": -84.04816530676932,
       "status": "routed",
@@ -4792,7 +4814,7 @@
     },
     {
       "building_id": "ms-f4055ac2ba484478",
-      "label": "B434",
+      "label": "B436",
       "lat": 46.771947694631855,
       "lng": -84.05230751137641,
       "status": "routed",
@@ -4803,7 +4825,7 @@
     },
     {
       "building_id": "ms-5e3840d429b699ea",
-      "label": "B435",
+      "label": "B437",
       "lat": 46.74514489342402,
       "lng": -84.11630757850008,
       "status": "routed",
@@ -4814,7 +4836,7 @@
     },
     {
       "building_id": "ms-d4e62d5a7018be4f",
-      "label": "B436",
+      "label": "B438",
       "lat": 46.71605852920272,
       "lng": -83.81958516551643,
       "status": "access_gap",
@@ -4825,7 +4847,7 @@
     },
     {
       "building_id": "ms-afc7f80dd5165336",
-      "label": "B437",
+      "label": "B439",
       "lat": 46.76991492133516,
       "lng": -84.04398748058993,
       "status": "routed",
@@ -4836,7 +4858,7 @@
     },
     {
       "building_id": "ms-d6b863d896b66416",
-      "label": "B438",
+      "label": "B440",
       "lat": 46.70437608134398,
       "lng": -84.22155499045779,
       "status": "routed",
@@ -4847,7 +4869,7 @@
     },
     {
       "building_id": "ms-e90b6bb0c220426c",
-      "label": "B439",
+      "label": "B441",
       "lat": 46.77506148281754,
       "lng": -83.95531654466085,
       "status": "routed",
@@ -4858,7 +4880,7 @@
     },
     {
       "building_id": "ms-a56cfb48d8785d70",
-      "label": "B440",
+      "label": "B442",
       "lat": 46.8253130761072,
       "lng": -84.09483400433344,
       "status": "routed",
@@ -4869,7 +4891,7 @@
     },
     {
       "building_id": "ms-5deae11f5dbe495e",
-      "label": "B441",
+      "label": "B443",
       "lat": 46.775090649280045,
       "lng": -83.95732306343756,
       "status": "routed",
@@ -4880,7 +4902,7 @@
     },
     {
       "building_id": "ms-1973984197b54048",
-      "label": "B442",
+      "label": "B444",
       "lat": 46.77435473673925,
       "lng": -84.04977994995063,
       "status": "routed",
@@ -4891,7 +4913,7 @@
     },
     {
       "building_id": "ms-1a57d9d213002f43",
-      "label": "B443",
+      "label": "B445",
       "lat": 46.78640957849655,
       "lng": -83.88616580033242,
       "status": "routed",
@@ -4902,7 +4924,7 @@
     },
     {
       "building_id": "ms-894b5ea727b0ef50",
-      "label": "B444",
+      "label": "B446",
       "lat": 46.77967445816585,
       "lng": -84.0397466788889,
       "status": "routed",
@@ -4913,7 +4935,7 @@
     },
     {
       "building_id": "ms-85023f47cbc19b4a",
-      "label": "B445",
+      "label": "B447",
       "lat": 46.711009906749986,
       "lng": -84.12529189559741,
       "status": "routed",
@@ -4924,7 +4946,7 @@
     },
     {
       "building_id": "ms-ffaab34d4fe05ac0",
-      "label": "B446",
+      "label": "B448",
       "lat": 46.770614802690915,
       "lng": -84.05101740777049,
       "status": "routed",
@@ -4935,7 +4957,7 @@
     },
     {
       "building_id": "ms-dd7cd199a4259001",
-      "label": "B447",
+      "label": "B449",
       "lat": 46.78849827149946,
       "lng": -83.86897046412648,
       "status": "routed",
@@ -4946,7 +4968,7 @@
     },
     {
       "building_id": "ms-d023b64673e9e5f8",
-      "label": "B448",
+      "label": "B450",
       "lat": 46.72224195202237,
       "lng": -84.16661917323644,
       "status": "routed",
@@ -4957,7 +4979,7 @@
     },
     {
       "building_id": "ms-72351351b3bfac76",
-      "label": "B449",
+      "label": "B451",
       "lat": 46.820277890835015,
       "lng": -84.21709099672378,
       "status": "access_gap",
@@ -4968,7 +4990,7 @@
     },
     {
       "building_id": "ms-e7f56e229c7c5bfa",
-      "label": "B450",
+      "label": "B452",
       "lat": 46.7949241500478,
       "lng": -84.05465107902151,
       "status": "routed",
@@ -4979,7 +5001,7 @@
     },
     {
       "building_id": "ms-dee3dc307715cc1e",
-      "label": "B451",
+      "label": "B453",
       "lat": 46.71111458585247,
       "lng": -84.12475663582138,
       "status": "routed",
@@ -4990,7 +5012,7 @@
     },
     {
       "building_id": "ms-7e7ce98dc4cf859f",
-      "label": "B452",
+      "label": "B454",
       "lat": 46.77080144209146,
       "lng": -84.04544059525246,
       "status": "routed",
@@ -5001,7 +5023,7 @@
     },
     {
       "building_id": "ms-07485d1cf94f95df",
-      "label": "B453",
+      "label": "B455",
       "lat": 46.74798328458043,
       "lng": -84.07596719006709,
       "status": "routed",
@@ -5012,7 +5034,7 @@
     },
     {
       "building_id": "ms-0c5b99ac0f33d42e",
-      "label": "B454",
+      "label": "B456",
       "lat": 46.77088702667624,
       "lng": -84.0453368632686,
       "status": "routed",
@@ -5023,7 +5045,7 @@
     },
     {
       "building_id": "ms-73e7f05379d5685c",
-      "label": "B455",
+      "label": "B457",
       "lat": 46.74541717464175,
       "lng": -84.10017316022436,
       "status": "routed",
@@ -5034,7 +5056,7 @@
     },
     {
       "building_id": "ms-e48704cba97dd606",
-      "label": "B456",
+      "label": "B458",
       "lat": 46.82055108078847,
       "lng": -84.10931457399523,
       "status": "routed",
@@ -5045,7 +5067,7 @@
     },
     {
       "building_id": "ms-15b6641bfc2d2e55",
-      "label": "B457",
+      "label": "B459",
       "lat": 46.79005113732785,
       "lng": -83.87072622454002,
       "status": "routed",
@@ -5056,7 +5078,7 @@
     },
     {
       "building_id": "ms-79e604fbdb44aee4",
-      "label": "B458",
+      "label": "B460",
       "lat": 46.773837873292216,
       "lng": -84.06886688829984,
       "status": "routed",
@@ -5067,7 +5089,7 @@
     },
     {
       "building_id": "ms-0b14567e4973f44d",
-      "label": "B459",
+      "label": "B461",
       "lat": 46.71238927441886,
       "lng": -84.12969896776104,
       "status": "routed",
@@ -5078,7 +5100,7 @@
     },
     {
       "building_id": "ms-9e856a5819b4f789",
-      "label": "B460",
+      "label": "B462",
       "lat": 46.77595699981592,
       "lng": -83.95807385504372,
       "status": "routed",
@@ -5089,7 +5111,7 @@
     },
     {
       "building_id": "ms-9de444cdc62cc6a2",
-      "label": "B461",
+      "label": "B463",
       "lat": 46.774196108300295,
       "lng": -83.94251722355268,
       "status": "routed",
@@ -5100,7 +5122,7 @@
     },
     {
       "building_id": "ms-79ad5e701d509186",
-      "label": "B462",
+      "label": "B464",
       "lat": 46.77270269765513,
       "lng": -83.94189481503352,
       "status": "routed",
@@ -5111,7 +5133,7 @@
     },
     {
       "building_id": "ms-5fe141dbab547487",
-      "label": "B463",
+      "label": "B465",
       "lat": 46.775129310839056,
       "lng": -84.04278297636266,
       "status": "routed",
@@ -5122,7 +5144,7 @@
     },
     {
       "building_id": "ms-c6cbb72be3aa5f3e",
-      "label": "B464",
+      "label": "B466",
       "lat": 46.84072485919255,
       "lng": -84.0633088390567,
       "status": "routed",
@@ -5133,7 +5155,7 @@
     },
     {
       "building_id": "ms-e10eacdb5dca4a47",
-      "label": "B465",
+      "label": "B467",
       "lat": 46.77073541688667,
       "lng": -84.04408632216797,
       "status": "routed",
@@ -5144,7 +5166,7 @@
     },
     {
       "building_id": "ms-7db7929f8d3c5c76",
-      "label": "B466",
+      "label": "B468",
       "lat": 46.72267640217413,
       "lng": -84.16036643339007,
       "status": "routed",
@@ -5155,7 +5177,7 @@
     },
     {
       "building_id": "ms-267d57ccc92098f2",
-      "label": "B467",
+      "label": "B469",
       "lat": 46.77478697266635,
       "lng": -84.04573299372711,
       "status": "routed",
@@ -5166,7 +5188,7 @@
     },
     {
       "building_id": "ms-9b3aa6d4b122604a",
-      "label": "B468",
+      "label": "B470",
       "lat": 46.70215878609512,
       "lng": -84.11577352151224,
       "status": "routed",
@@ -5177,7 +5199,7 @@
     },
     {
       "building_id": "ms-053e1de5bcb66f7c",
-      "label": "B469",
+      "label": "B471",
       "lat": 46.77476270835558,
       "lng": -84.07041061701577,
       "status": "routed",
@@ -5188,7 +5210,7 @@
     },
     {
       "building_id": "ms-5062c96ff995fa7c",
-      "label": "B470",
+      "label": "B472",
       "lat": 46.73351604066844,
       "lng": -84.21025673605088,
       "status": "access_gap",
@@ -5199,7 +5221,7 @@
     },
     {
       "building_id": "ms-f21adf8f7f463676",
-      "label": "B471",
+      "label": "B473",
       "lat": 46.78957307115113,
       "lng": -84.03218822128635,
       "status": "routed",
@@ -5210,7 +5232,7 @@
     },
     {
       "building_id": "ms-1bfc3704420496be",
-      "label": "B472",
+      "label": "B474",
       "lat": 46.75247380992156,
       "lng": -84.06594344371562,
       "status": "routed",
@@ -5221,7 +5243,7 @@
     },
     {
       "building_id": "ms-760a1dfcc246f103",
-      "label": "B473",
+      "label": "B475",
       "lat": 46.77844243135818,
       "lng": -84.06533616204582,
       "status": "routed",
@@ -5232,7 +5254,7 @@
     },
     {
       "building_id": "ms-8de632989f941820",
-      "label": "B474",
+      "label": "B476",
       "lat": 46.74597794261377,
       "lng": -84.11482269470652,
       "status": "routed",
@@ -5243,7 +5265,7 @@
     },
     {
       "building_id": "ms-30300e5292794cc4",
-      "label": "B475",
+      "label": "B477",
       "lat": 46.77818235721707,
       "lng": -84.06047367786537,
       "status": "routed",
@@ -5254,7 +5276,7 @@
     },
     {
       "building_id": "ms-d97daaf948336bac",
-      "label": "B476",
+      "label": "B478",
       "lat": 46.783989630343896,
       "lng": -84.05182863275127,
       "status": "routed",
@@ -5265,7 +5287,7 @@
     },
     {
       "building_id": "ms-9f74b56b919cfed9",
-      "label": "B477",
+      "label": "B479",
       "lat": 46.77059631828248,
       "lng": -84.05177572714315,
       "status": "routed",
@@ -5276,7 +5298,7 @@
     },
     {
       "building_id": "ms-5ebfbda0dac9fdc2",
-      "label": "B478",
+      "label": "B480",
       "lat": 46.7112195572284,
       "lng": -84.12646125216627,
       "status": "routed",
@@ -5287,7 +5309,7 @@
     },
     {
       "building_id": "ms-a6e2e363fe9f26d1",
-      "label": "B479",
+      "label": "B481",
       "lat": 46.79473760389076,
       "lng": -84.02798215834403,
       "status": "routed",
@@ -5298,7 +5320,7 @@
     },
     {
       "building_id": "ms-aa65141c4b369c13",
-      "label": "B480",
+      "label": "B482",
       "lat": 46.83193407717858,
       "lng": -84.09225602492937,
       "status": "routed",
@@ -5309,7 +5331,7 @@
     },
     {
       "building_id": "ms-3902d9ca5633f26e",
-      "label": "B481",
+      "label": "B483",
       "lat": 46.70674477207173,
       "lng": -84.12615670729676,
       "status": "access_gap",
@@ -5320,7 +5342,7 @@
     },
     {
       "building_id": "ms-4c73b1c78d75603c",
-      "label": "B482",
+      "label": "B484",
       "lat": 46.70884526435825,
       "lng": -84.12982291379495,
       "status": "routed",
@@ -5331,7 +5353,7 @@
     },
     {
       "building_id": "ms-e58c7ff5d8d746c7",
-      "label": "B483",
+      "label": "B485",
       "lat": 46.82714325461913,
       "lng": -84.0948552275502,
       "status": "routed",
@@ -5342,7 +5364,7 @@
     },
     {
       "building_id": "ms-fdcd2d8c272c7fcf",
-      "label": "B484",
+      "label": "B486",
       "lat": 46.754537889052536,
       "lng": -84.06517027993289,
       "status": "routed",
@@ -5353,7 +5375,7 @@
     },
     {
       "building_id": "ms-ba6646229b241e5b",
-      "label": "B485",
+      "label": "B487",
       "lat": 46.711504310252806,
       "lng": -84.13281106728836,
       "status": "routed",
@@ -5364,7 +5386,7 @@
     },
     {
       "building_id": "ms-6e03ae0f17eb7152",
-      "label": "B486",
+      "label": "B488",
       "lat": 46.75662040153443,
       "lng": -84.06379283702915,
       "status": "routed",
@@ -5375,7 +5397,7 @@
     },
     {
       "building_id": "ms-cd71c287f5f76a6d",
-      "label": "B487",
+      "label": "B489",
       "lat": 46.781404224906034,
       "lng": -84.0519876666174,
       "status": "routed",
@@ -5386,7 +5408,7 @@
     },
     {
       "building_id": "ms-1cd6e4cd4aae1159",
-      "label": "B488",
+      "label": "B490",
       "lat": 46.712723387932954,
       "lng": -84.12881284584947,
       "status": "routed",
@@ -5397,7 +5419,7 @@
     },
     {
       "building_id": "ms-61fbdacd395f3477",
-      "label": "B489",
+      "label": "B491",
       "lat": 46.78072518307014,
       "lng": -84.05058115432213,
       "status": "routed",
@@ -5408,7 +5430,7 @@
     },
     {
       "building_id": "ms-c8bbd54d7c97bea8",
-      "label": "B490",
+      "label": "B492",
       "lat": 46.80004577230327,
       "lng": -84.05611283278785,
       "status": "routed",
@@ -5419,7 +5441,7 @@
     },
     {
       "building_id": "ms-5d7315f4a8a25fb4",
-      "label": "B491",
+      "label": "B493",
       "lat": 46.786588936049384,
       "lng": -84.0273419420433,
       "status": "routed",
@@ -5430,7 +5452,7 @@
     },
     {
       "building_id": "ms-9aa1b50c5f2ccd2c",
-      "label": "B492",
+      "label": "B494",
       "lat": 46.81348268593863,
       "lng": -83.98671159618567,
       "status": "routed",
@@ -5441,7 +5463,7 @@
     },
     {
       "building_id": "ms-6f97771929b8600f",
-      "label": "B493",
+      "label": "B495",
       "lat": 46.74488092827266,
       "lng": -84.11415085607477,
       "status": "routed",
@@ -5452,7 +5474,7 @@
     },
     {
       "building_id": "ms-f377f47e26a3ed93",
-      "label": "B494",
+      "label": "B496",
       "lat": 46.75954493437848,
       "lng": -84.06493440143183,
       "status": "routed",
@@ -5463,7 +5485,7 @@
     },
     {
       "building_id": "ms-8f9ab2213b07560d",
-      "label": "B495",
+      "label": "B497",
       "lat": 46.82137380541525,
       "lng": -83.89793731253921,
       "status": "access_gap",
@@ -5474,7 +5496,7 @@
     },
     {
       "building_id": "ms-132afff32338e575",
-      "label": "B496",
+      "label": "B498",
       "lat": 46.79098076659167,
       "lng": -84.03138661898765,
       "status": "routed",
@@ -5485,7 +5507,7 @@
     },
     {
       "building_id": "ms-59d8aaada5ae690a",
-      "label": "B497",
+      "label": "B499",
       "lat": 46.82544159357803,
       "lng": -84.09088390575864,
       "status": "routed",
@@ -5496,7 +5518,7 @@
     },
     {
       "building_id": "ms-a18da93a61db8306",
-      "label": "B498",
+      "label": "B500",
       "lat": 46.81885806259447,
       "lng": -84.10667655388602,
       "status": "routed",
@@ -5507,7 +5529,7 @@
     },
     {
       "building_id": "ms-09b3a8569c3436e3",
-      "label": "B499",
+      "label": "B501",
       "lat": 46.71106302400331,
       "lng": -84.1244540149123,
       "status": "routed",
@@ -5518,7 +5540,7 @@
     },
     {
       "building_id": "ms-21c117c871f64935",
-      "label": "B500",
+      "label": "B502",
       "lat": 46.77301540060571,
       "lng": -84.07183472108956,
       "status": "routed",
@@ -5529,7 +5551,7 @@
     },
     {
       "building_id": "ms-f537e85dfd36d05b",
-      "label": "B501",
+      "label": "B503",
       "lat": 46.75928671497252,
       "lng": -84.06394589775034,
       "status": "routed",
@@ -5540,7 +5562,7 @@
     },
     {
       "building_id": "ms-9241fff097dc08a5",
-      "label": "B502",
+      "label": "B504",
       "lat": 46.78534602677381,
       "lng": -84.0303013501344,
       "status": "routed",
@@ -5551,7 +5573,7 @@
     },
     {
       "building_id": "ms-74fe5938559f226f",
-      "label": "B503",
+      "label": "B505",
       "lat": 46.71094191175103,
       "lng": -84.12400228996147,
       "status": "routed",
@@ -5562,7 +5584,7 @@
     },
     {
       "building_id": "ms-446b101e7f034b6e",
-      "label": "B504",
+      "label": "B506",
       "lat": 46.78957316308059,
       "lng": -84.05399060348898,
       "status": "routed",
@@ -5573,7 +5595,7 @@
     },
     {
       "building_id": "ms-2d6d2dbd87ff79fc",
-      "label": "B505",
+      "label": "B507",
       "lat": 46.72512715241862,
       "lng": -84.16181760686804,
       "status": "routed",
@@ -5584,7 +5606,7 @@
     },
     {
       "building_id": "ms-0902bb513d1f2bbc",
-      "label": "B506",
+      "label": "B508",
       "lat": 46.7767141882145,
       "lng": -84.04780512926614,
       "status": "routed",
@@ -5595,7 +5617,7 @@
     },
     {
       "building_id": "ms-1a52a01bdc5c489c",
-      "label": "B507",
+      "label": "B509",
       "lat": 46.78268570023901,
       "lng": -84.03231025031113,
       "status": "routed",
@@ -5606,7 +5628,7 @@
     },
     {
       "building_id": "ms-eebdf93f242d5bd3",
-      "label": "B508",
+      "label": "B510",
       "lat": 46.77718896763855,
       "lng": -83.94099696969964,
       "status": "routed",
@@ -5617,7 +5639,7 @@
     },
     {
       "building_id": "ms-85ea9065f1f47f92",
-      "label": "B509",
+      "label": "B511",
       "lat": 46.70555848622373,
       "lng": -84.12843338775593,
       "status": "routed",
@@ -5628,7 +5650,7 @@
     },
     {
       "building_id": "ms-0e586046074afb5f",
-      "label": "B510",
+      "label": "B512",
       "lat": 46.72400081151405,
       "lng": -84.16350901437123,
       "status": "routed",
@@ -5639,7 +5661,7 @@
     },
     {
       "building_id": "ms-0c9c3f7f2f257d86",
-      "label": "B511",
+      "label": "B513",
       "lat": 46.82729236572549,
       "lng": -84.0961458762234,
       "status": "access_gap",
@@ -5650,7 +5672,7 @@
     },
     {
       "building_id": "ms-74c0fa2b34ab276d",
-      "label": "B512",
+      "label": "B514",
       "lat": 46.79289904300534,
       "lng": -84.05515754600722,
       "status": "routed",
@@ -5661,7 +5683,7 @@
     },
     {
       "building_id": "ms-6928a0b0d7deb59c",
-      "label": "B513",
+      "label": "B515",
       "lat": 46.789750948537865,
       "lng": -83.87109170311396,
       "status": "routed",
@@ -5672,7 +5694,7 @@
     },
     {
       "building_id": "ms-6c70ed5632020647",
-      "label": "B514",
+      "label": "B516",
       "lat": 46.82245342711073,
       "lng": -84.09000909976767,
       "status": "routed",
@@ -5683,7 +5705,7 @@
     },
     {
       "building_id": "ms-fb9e964c5caffdc4",
-      "label": "B515",
+      "label": "B517",
       "lat": 46.78389873248306,
       "lng": -84.05255215385654,
       "status": "routed",
@@ -5694,7 +5716,7 @@
     },
     {
       "building_id": "ms-00f381fc707c034d",
-      "label": "B516",
+      "label": "B518",
       "lat": 46.77122541892798,
       "lng": -83.95914554066111,
       "status": "routed",
@@ -5705,7 +5727,7 @@
     },
     {
       "building_id": "ms-9a1bca51896a7b9c",
-      "label": "B517",
+      "label": "B519",
       "lat": 46.77858219959939,
       "lng": -84.0616856582405,
       "status": "routed",
@@ -5716,7 +5738,7 @@
     },
     {
       "building_id": "ms-6d0d23df19442a49",
-      "label": "B518",
+      "label": "B520",
       "lat": 46.72457108528631,
       "lng": -84.1627446596171,
       "status": "routed",
@@ -5727,7 +5749,7 @@
     },
     {
       "building_id": "ms-d834170a18a00f4a",
-      "label": "B519",
+      "label": "B521",
       "lat": 46.79329902177752,
       "lng": -84.02774338205319,
       "status": "routed",
@@ -5738,7 +5760,7 @@
     },
     {
       "building_id": "ms-3c0f81c7fb80b903",
-      "label": "B520",
+      "label": "B522",
       "lat": 46.71167076757306,
       "lng": -84.12579507834714,
       "status": "routed",
@@ -5749,7 +5771,7 @@
     },
     {
       "building_id": "ms-0cac3b9e0034a3e4",
-      "label": "B521",
+      "label": "B523",
       "lat": 46.790956861182906,
       "lng": -83.87361113915611,
       "status": "routed",
@@ -5760,7 +5782,7 @@
     },
     {
       "building_id": "ms-a27ad3d7c8346fcd",
-      "label": "B522",
+      "label": "B524",
       "lat": 46.77002854075734,
       "lng": -83.95059852069127,
       "status": "routed",
@@ -5771,7 +5793,7 @@
     },
     {
       "building_id": "ms-ca6062e9fca2bffd",
-      "label": "B523",
+      "label": "B525",
       "lat": 46.787930583693374,
       "lng": -83.88272605790085,
       "status": "routed",
@@ -5782,7 +5804,7 @@
     },
     {
       "building_id": "ms-a276c7693234bb2f",
-      "label": "B524",
+      "label": "B526",
       "lat": 46.7098386954133,
       "lng": -84.12249545072058,
       "status": "routed",
@@ -5793,7 +5815,7 @@
     },
     {
       "building_id": "ms-a0c24b53fa81eed1",
-      "label": "B525",
+      "label": "B527",
       "lat": 46.70708336946261,
       "lng": -84.12855186875453,
       "status": "routed",
@@ -5804,7 +5826,7 @@
     },
     {
       "building_id": "ms-283051818ad05dc9",
-      "label": "B526",
+      "label": "B528",
       "lat": 46.787356682017574,
       "lng": -84.02922207623932,
       "status": "routed",
@@ -5815,7 +5837,7 @@
     },
     {
       "building_id": "ms-4ddf1d6ff876cff2",
-      "label": "B527",
+      "label": "B529",
       "lat": 46.74652609186665,
       "lng": -84.10275786576749,
       "status": "routed",
@@ -5826,7 +5848,7 @@
     },
     {
       "building_id": "ms-e9d3772eeb2384a4",
-      "label": "B528",
+      "label": "B530",
       "lat": 46.75051319035465,
       "lng": -84.06731022636026,
       "status": "routed",
@@ -5837,7 +5859,7 @@
     },
     {
       "building_id": "ms-dc4d358159c86694",
-      "label": "B529",
+      "label": "B531",
       "lat": 46.77688196106534,
       "lng": -84.06610743725474,
       "status": "routed",
@@ -5848,7 +5870,7 @@
     },
     {
       "building_id": "ms-4d06225d462ea57b",
-      "label": "B530",
+      "label": "B532",
       "lat": 46.78884191666325,
       "lng": -83.90821319988224,
       "status": "access_gap",
@@ -5859,7 +5881,7 @@
     },
     {
       "building_id": "ms-b3d19b41fd58145b",
-      "label": "B531",
+      "label": "B533",
       "lat": 46.742309665208936,
       "lng": -83.89571824070012,
       "status": "routed",
@@ -5870,7 +5892,7 @@
     },
     {
       "building_id": "ms-410c4800af948306",
-      "label": "B532",
+      "label": "B534",
       "lat": 46.74154455050906,
       "lng": -84.12393396432414,
       "status": "routed",
@@ -5881,7 +5903,7 @@
     },
     {
       "building_id": "ms-9177be7893277596",
-      "label": "B533",
+      "label": "B535",
       "lat": 46.71299875813509,
       "lng": -84.1338424592663,
       "status": "routed",
@@ -5892,7 +5914,7 @@
     },
     {
       "building_id": "ms-9841c508e2fcf08f",
-      "label": "B534",
+      "label": "B536",
       "lat": 46.77611921476603,
       "lng": -83.94087154751094,
       "status": "routed",
@@ -5903,7 +5925,7 @@
     },
     {
       "building_id": "ms-1fc74b6d30fde6fa",
-      "label": "B535",
+      "label": "B537",
       "lat": 46.8185299909555,
       "lng": -84.09111613304864,
       "status": "routed",
@@ -5914,7 +5936,7 @@
     },
     {
       "building_id": "ms-d04d8d3969c94394",
-      "label": "B536",
+      "label": "B538",
       "lat": 46.78080541009966,
       "lng": -84.05146657909746,
       "status": "routed",
@@ -5925,7 +5947,7 @@
     },
     {
       "building_id": "ms-55b73410f394ed0d",
-      "label": "B537",
+      "label": "B539",
       "lat": 46.78848338407692,
       "lng": -83.86883205375256,
       "status": "routed",
@@ -5936,7 +5958,7 @@
     },
     {
       "building_id": "ms-51f48426be991185",
-      "label": "B538",
+      "label": "B540",
       "lat": 46.775683956227,
       "lng": -84.03055856119613,
       "status": "routed",
@@ -5947,7 +5969,7 @@
     },
     {
       "building_id": "ms-80cb13e997e2af1f",
-      "label": "B539",
+      "label": "B541",
       "lat": 46.74475547468692,
       "lng": -84.06087525827614,
       "status": "routed",
@@ -5958,7 +5980,7 @@
     },
     {
       "building_id": "ms-d3ec56eeff6159dd",
-      "label": "B540",
+      "label": "B542",
       "lat": 46.795216727201456,
       "lng": -84.17729614918673,
       "status": "access_gap",
@@ -5969,7 +5991,7 @@
     },
     {
       "building_id": "ms-f5cdfb864a771ba9",
-      "label": "B541",
+      "label": "B543",
       "lat": 46.78992347146033,
       "lng": -84.05696346926852,
       "status": "routed",
@@ -5980,7 +6002,7 @@
     },
     {
       "building_id": "ms-5a53f1f7d51502fa",
-      "label": "B542",
+      "label": "B544",
       "lat": 46.76909004882993,
       "lng": -84.04090054161165,
       "status": "access_gap",
@@ -5991,7 +6013,7 @@
     },
     {
       "building_id": "ms-85a64482df9bbb73",
-      "label": "B543",
+      "label": "B545",
       "lat": 46.79726136978753,
       "lng": -84.05663737663473,
       "status": "routed",
@@ -6002,7 +6024,7 @@
     },
     {
       "building_id": "ms-a066a614c4a8be2a",
-      "label": "B544",
+      "label": "B546",
       "lat": 46.778880808779874,
       "lng": -84.03370141638757,
       "status": "routed",
@@ -6811,6 +6833,7 @@
       "ms-018a535ad6dd0816",
       "ms-aadf51a5f7db86f5",
       "ms-83bb8b331c1a27c9",
+      "ms-5a07d4c487891d99",
       "ms-11f8c7d676f97c57",
       "ms-2d051312461ceaba",
       "ms-6eb219d91952d086",
@@ -6826,6 +6849,7 @@
       "ms-4f246fa269f8730d",
       "ms-13c07b4b4ee8a1e3",
       "ms-fdb765994a6d4978",
+      "ms-601ad727a738e5a2",
       "ms-d4e62d5a7018be4f",
       "ms-d6b863d896b66416",
       "ms-72351351b3bfac76",
